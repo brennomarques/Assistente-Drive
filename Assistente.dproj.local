@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/05/17 08:16:38.000.198,=C:\Users\brenno.lima\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/17 08:35:37.000.791,C:\Users\brenno.lima\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\brenno.lima\Documents\Embarcadero\Studio\Projetos\Down\Unit1.dfm</Transaction>
+    <Transaction>2019/05/17 08:35:37.000.791,C:\Users\brenno.lima\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\brenno.lima\Documents\Embarcadero\Studio\Projetos\Down\Unit1.pas</Transaction>
+    <Transaction>2019/05/17 08:36:43.000.972,C:\Users\brenno.lima\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\brenno.lima\Documents\Embarcadero\Studio\Projetos\Down\Project1.dproj</Transaction>
+    <Transaction>2019/05/20 16:10:21.000.826,=C:\Users\brenno.lima\Documents\Embarcadero\Studio\Projetos\Down\Unit2.pas</Transaction>
+    <Transaction>2019/05/28 11:47:47.000.431,C:\Users\brenno.lima\Documents\Embarcadero\Studio\Projetos\Down\Assistente.dproj=C:\Users\brenno.lima\Documents\Embarcadero\Studio\Projetos\Down\Project1.dproj</Transaction>
+    <Transaction>2019/06/13 12:49:02.000.671,=E:\dlls para Could not load SSL library\ssleay32.dll</Transaction>
+    <Transaction>2019/06/13 12:49:02.000.656,=E:\dlls para Could not load SSL library\libeay32.dll</Transaction>
+    <Transaction>2019/06/13 12:51:37.000.309,E:\dlls para Could not load SSL library\libeay32.dll=</Transaction>
+    <Transaction>2019/06/13 12:51:37.000.323,E:\dlls para Could not load SSL library\ssleay32.dll=</Transaction>
+  </Transactions>
+</BorlandProject>
